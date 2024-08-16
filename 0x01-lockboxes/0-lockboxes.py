@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 """
 Method to determine if all boxes can be opened
-Using prototype: def canUnlockAll(boxes) 
+Using prototype: def canUnlockAll(boxes)
 """
 
+
 def canUnlockAll(boxes):
+
     """
      Check if boxes can be unlocked
     """
